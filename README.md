@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/shelbycopelandjr/osTicket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/shelbycopelandjr/osTicket-post)
 - <b>Microsoft Azure</b>
-  - [Active Directory within Azure VMs](https://github.com/shelbycopelandjr/Active-Directory-Setup)
+  - [Active Directory using Virtual Machines](https://github.com/shelbycopelandjr/Active-Directory-Setup)
 
 <h2>🤳Connect with me:</h2>
 
