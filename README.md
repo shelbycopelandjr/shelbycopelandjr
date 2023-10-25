@@ -1,4 +1,4 @@
-<h1>Hello! I'm Shelby, an <a href="www.linkedin.com/in/shelby-copeland-the-guy">aspiring IT Professional</a>☺</h1>
+<h1>Hello! I'm Shelby, an <a href="www.linkedin.com/in/shelbycopelandtheguy">aspiring IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
